@@ -4,13 +4,7 @@ class Home extends React.Component {
   render() {
     return (
       <div>
-        <div>HEre my home</div>
-        <div>HEre my home</div>
-        <div>HEre my home</div>
-        <div>HEre my home</div>
-        <div>HEre my home</div>
-        <div>HEre my home</div>
-        <div>HEre my home</div>
+        <div>Demo for calling smart contract on different blockchains</div>
       </div>
     );
   }
