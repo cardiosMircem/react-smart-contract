@@ -6,6 +6,10 @@ A simple example of how smart contract is called in a basic react app.
 
 A newbie can get his hands dirty on a smart contract client for the first time with a functioning example.
 
+## Demo
+
+A demo can be found 👉 👉 👉 [here](https://cardiosmircem.github.io/react-smart-contract/) 👈 👈 👈
+
 ## Utilization
 
 1. clone this repo
