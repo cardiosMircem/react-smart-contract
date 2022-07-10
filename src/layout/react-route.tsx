@@ -8,9 +8,9 @@ class ReactRoute extends React.Component {
     return (
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/bsc" element={<Bsc />} />
-          <Route path="/home" element={<Home />} />
+          <Route path="/react-smart-contract" element={<Home />} />
+          <Route path="/react-smart-contract/bsc" element={<Bsc />} />
+          <Route path="/react-smart-contract/home" element={<Home />} />
         </Routes>
       </BrowserRouter>
     );

@@ -7,8 +7,8 @@ class NavBar extends React.Component {
       <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
         <Container>
           <Nav>
-            <Nav.Link href="home">Home</Nav.Link>
-            <Nav.Link href="bsc">BSC</Nav.Link>
+            <Nav.Link href="/react-smart-contract/home">Home</Nav.Link>
+            <Nav.Link href="/react-smart-contract/bsc">BSC</Nav.Link>
           </Nav>
         </Container>
       </Navbar>
