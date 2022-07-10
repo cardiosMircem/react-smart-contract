@@ -28,7 +28,7 @@
   },
   "scripts": {
     "start": "react-app-rewired start",
-    "build": "npm run build",
+    "build": "react-scripts build",
     "test": "react-app-rewired test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
