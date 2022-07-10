@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-smart-contract/static/css/main.c06733bb.css",
-    "main.js": "/react-smart-contract/static/js/main.2a8ae740.js",
+    "main.js": "/react-smart-contract/static/js/main.c0cfca4a.js",
     "static/js/787.266dc225.chunk.js": "/react-smart-contract/static/js/787.266dc225.chunk.js",
     "index.html": "/react-smart-contract/index.html",
     "main.c06733bb.css.map": "/react-smart-contract/static/css/main.c06733bb.css.map",
-    "main.2a8ae740.js.map": "/react-smart-contract/static/js/main.2a8ae740.js.map",
+    "main.c0cfca4a.js.map": "/react-smart-contract/static/js/main.c0cfca4a.js.map",
     "787.266dc225.chunk.js.map": "/react-smart-contract/static/js/787.266dc225.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c06733bb.css",
-    "static/js/main.2a8ae740.js"
+    "static/js/main.c0cfca4a.js"
   ]
 }
