@@ -6,13 +6,14 @@ import Home from '../components/home/home';
 class ReactRoute extends React.Component {
   render() {
     return (
-      <BrowserRouter>
+      // change this to Browser in development
+      <HashRouter>
         <Routes>
           <Route path="bsc" element={<Bsc />} />
           <Route path="home" element={<Home />} />
           <Route path="/" element={<Home />} />
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     );
   }
 }
