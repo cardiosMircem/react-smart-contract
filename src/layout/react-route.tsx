@@ -9,8 +9,8 @@ class ReactRoute extends React.Component {
       // change this to Browser in development
       <HashRouter>
         <Routes>
-          <Route path="bsc" element={<Bsc />} />
-          <Route path="home" element={<Home />} />
+          <Route path="/bsc" element={<Bsc />} />
+          <Route path="/home" element={<Home />} />
           <Route path="/" element={<Home />} />
         </Routes>
       </HashRouter>
